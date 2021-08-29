@@ -7,7 +7,8 @@ header{
     background-color: rgb(238, 255, 0);
 }
 .main {
-  width: max-content;
+  width: 90%;
+  max-width: 1500px;
 }
 .main a {
   width: 90%;
