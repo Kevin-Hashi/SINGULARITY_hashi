@@ -1,0 +1,13 @@
+body {
+  width: 100%;
+  text-align: center;
+}
+.main {
+  width: max-content;
+}
+.main a {
+  width: 90%;
+}
+.main a img {
+  width: 90%;
+}
